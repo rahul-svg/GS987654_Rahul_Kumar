@@ -1,0 +1,217 @@
+[
+    {
+        "month": "January",
+        "storesDetails": [
+            {
+                "store_name": "Downtown Store",
+                "sku": "Pants",
+                "paymentDetailsWeakWise": {
+                    "week1": {
+                        "sales_units": 200,
+                        "sales_dollar": 5000,
+                        "gm_dollar": 1500,
+                        "gm_percent": 30
+                    },
+                    "week2": {
+                        "sales_units": 220,
+                        "sales_dollar": 5500,
+                        "gm_dollar": 1650,
+                        "gm_percent": 30
+                    },
+                    "week3": {
+                        "sales_units": 210,
+                        "sales_dollar": 5300,
+                        "gm_dollar": 1590,
+                        "gm_percent": 30
+                    },
+                    "week4": {
+                        "sales_units": 230,
+                        "sales_dollar": 5700,
+                        "gm_dollar": 1710,
+                        "gm_percent": 30
+                    }
+                }
+            },
+            {
+                "store_name": "Uptown Store",
+                "sku": "Leather Jacket",
+                "paymentDetailsWeakWise": {
+                    "week1": {
+                        "sales_units": 150,
+                        "sales_dollar": 7500,
+                        "gm_dollar": 2500,
+                        "gm_percent": 33.3
+                    },
+                    "week2": {
+                        "sales_units": 160,
+                        "sales_dollar": 8000,
+                        "gm_dollar": 2660,
+                        "gm_percent": 33.3
+                    },
+                    "week3": {
+                        "sales_units": 140,
+                        "sales_dollar": 7000,
+                        "gm_dollar": 2330,
+                        "gm_percent": 33.3
+                    },
+                    "week4": {
+                        "sales_units": 170,
+                        "sales_dollar": 8500,
+                        "gm_dollar": 2830,
+                        "gm_percent": 33.3
+                    }
+                }
+            },
+            {
+                "store_name": "Mall Outlet",
+                "sku": "Pants",
+                "paymentDetailsWeakWise": {
+                    "week1": {
+                        "sales_units": 180,
+                        "sales_dollar": 4500,
+                        "gm_dollar": 1350,
+                        "gm_percent": 30
+                    },
+                    "week2": {
+                        "sales_units": 200,
+                        "sales_dollar": 5000,
+                        "gm_dollar": 1500,
+                        "gm_percent": 30
+                    },
+                    "week3": {
+                        "sales_units": 190,
+                        "sales_dollar": 4700,
+                        "gm_dollar": 1410,
+                        "gm_percent": 30
+                    },
+                    "week4": {
+                        "sales_units": 210,
+                        "sales_dollar": 5200,
+                        "gm_dollar": 1560,
+                        "gm_percent": 30
+                    }
+                }
+            },
+            {
+                "store_name": "Suburb Store",
+                "sku": "Leather Jacket",
+                "paymentDetailsWeakWise": {
+                    "week1": {
+                        "sales_units": 130,
+                        "sales_dollar": 6500,
+                        "gm_dollar": 2160,
+                        "gm_percent": 33.2
+                    },
+                    "week2": {
+                        "sales_units": 140,
+                        "sales_dollar": 7000,
+                        "gm_dollar": 2330,
+                        "gm_percent": 33.3
+                    },
+                    "week3": {
+                        "sales_units": 120,
+                        "sales_dollar": 6000,
+                        "gm_dollar": 2000,
+                        "gm_percent": 33.3
+                    },
+                    "week4": {
+                        "sales_units": 150,
+                        "sales_dollar": 7500,
+                        "gm_dollar": 2500,
+                        "gm_percent": 33.3
+                    }
+                }
+            },
+            {
+                "store_name": "City Center Store",
+                "sku": "Pants",
+                "paymentDetailsWeakWise": {
+                    "week1": {
+                        "sales_units": 210,
+                        "sales_dollar": 5200,
+                        "gm_dollar": 1560,
+                        "gm_percent": 30
+                    },
+                    "week2": {
+                        "sales_units": 220,
+                        "sales_dollar": 5500,
+                        "gm_dollar": 1650,
+                        "gm_percent": 30
+                    },
+                    "week3": {
+                        "sales_units": 215,
+                        "sales_dollar": 5300,
+                        "gm_dollar": 1590,
+                        "gm_percent": 30
+                    },
+                    "week4": {
+                        "sales_units": 230,
+                        "sales_dollar": 5700,
+                        "gm_dollar": 1710,
+                        "gm_percent": 30
+                    }
+                }
+            },
+            {
+                "store_name": "Grand Plaza",
+                "sku": "Leather Jacket",
+                "paymentDetailsWeakWise": {
+                    "week1": {
+                        "sales_units": 160,
+                        "sales_dollar": 8000,
+                        "gm_dollar": 2660,
+                        "gm_percent": 33.3
+                    },
+                    "week2": {
+                        "sales_units": 170,
+                        "sales_dollar": 8500,
+                        "gm_dollar": 2830,
+                        "gm_percent": 33.3
+                    },
+                    "week3": {
+                        "sales_units": 150,
+                        "sales_dollar": 7500,
+                        "gm_dollar": 2500,
+                        "gm_percent": 33.3
+                    },
+                    "week4": {
+                        "sales_units": 180,
+                        "sales_dollar": 9000,
+                        "gm_dollar": 3000,
+                        "gm_percent": 33.3
+                    }
+                }
+            },
+            {
+                "store_name": "East End Mall",
+                "sku": "Pants",
+                "paymentDetailsWeakWise": {
+                    "week1": {
+                        "sales_units": 200,
+                        "sales_dollar": 5000,
+                        "gm_dollar": 1500,
+                        "gm_percent": 30
+                    },
+                    "week2": {
+                        "sales_units": 220,
+                        "sales_dollar": 5500,
+                        "gm_dollar": 1650,
+                        "gm_percent": 30
+                    },
+                    "week3": {
+                        "sales_units": 210,
+                        "sales_dollar": 5300,
+                        "gm_dollar": 1590,
+                        "gm_percent": 30
+                    },
+                    "week4": {
+                        "sales_units": 230,
+                        "sales_dollar": 5700,
+                        "gm_dollar": 1710,
+                        "gm_percent": 30
+                    }
+                }
+            }
+        ]
+    }
+]

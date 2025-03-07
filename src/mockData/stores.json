@@ -1,0 +1,122 @@
+[
+    {
+      "id": "1",
+      "name": "Alpha Mart",
+      "city": "New York",
+      "state": "NY"
+    },
+    {
+      "id": "2",
+      "name": "Beta Store",
+      "city": "Los Angeles",
+      "state": "CA"
+    },
+    {
+      "id": "3",
+      "name": "Gamma Retail",
+      "city": "Chicago",
+      "state": "IL"
+    },
+    {
+      "id": "4",
+      "name": "Delta Market",
+      "city": "Houston",
+      "state": "TX"
+    },
+    {
+      "id": "5",
+      "name": "Epsilon Bazaar",
+      "city": "Phoenix",
+      "state": "AZ"
+    },
+    {
+      "id": "6",
+      "name": "Zeta Emporium",
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    {
+      "id": "7",
+      "name": "Eta Outlet",
+      "city": "San Antonio",
+      "state": "TX"
+    },
+    {
+      "id": "8",
+      "name": "Theta Hub",
+      "city": "San Diego",
+      "state": "CA"
+    },
+    {
+      "id": "9",
+      "name": "Iota Supermart",
+      "city": "Dallas",
+      "state": "TX"
+    },
+    {
+      "id": "10",
+      "name": "Kappa Goods",
+      "city": "San Jose",
+      "state": "CA"
+    },
+    {
+      "id": "11",
+      "name": "Lambda Market",
+      "city": "Austin",
+      "state": "TX"
+    },
+    {
+      "id": "12",
+      "name": "Mu Mart",
+      "city": "Jacksonville",
+      "state": "FL"
+    },
+    {
+      "id": "13",
+      "name": "Nu Plaza",
+      "city": "Fort Worth",
+      "state": "TX"
+    },
+    {
+      "id": "14",
+      "name": "Xi Depot",
+      "city": "Columbus",
+      "state": "OH"
+    },
+    {
+      "id": "15",
+      "name": "Omicron Supplies",
+      "city": "Charlotte",
+      "state": "NC"
+    },
+    {
+      "id": "16",
+      "name": "Pi MegaMart",
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    {
+      "id": "17",
+      "name": "Rho Store",
+      "city": "Indianapolis",
+      "state": "IN"
+    },
+    {
+      "id": "18",
+      "name": "Sigma Outlet",
+      "city": "Seattle",
+      "state": "WA"
+    },
+    {
+      "id": "19",
+      "name": "Tau Mart",
+      "city": "Denver",
+      "state": "CO"
+    },
+    {
+      "id": "20",
+      "name": "Upsilon Bazaar",
+      "city": "Washington",
+      "state": "DC"
+    }
+  ]
