@@ -21,7 +21,7 @@ const skuReducer = createSlice({
     addSKU: (state, action: PayloadAction<skuDetailsType>) => {
       state.skuDetails.push(action.payload);
     },
-    removeSKU: (state, action: PayloadAction<number>) => {
+    removeSKU: (state, action: PayloadAction<string>) => {
       state.skuDetails = state.skuDetails.filter(
         (store) => store.id !== action.payload
       );

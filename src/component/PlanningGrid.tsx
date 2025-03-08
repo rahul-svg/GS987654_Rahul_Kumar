@@ -115,8 +115,8 @@ const PlanningGrid: React.FC = () => {
   };
 
   return (
-    <div style={{ height: "100vh", width: "80vw" }}>
-      <div className="ag-theme-quartz" style={{ height: "70vh", width: "100%" }}>
+    <div className="planningGrid">
+      <div className="ag-theme-quartz" style={{ height: "80vh", width: "80%" }}>
         {sellData.length === 0 ? (
           <p>Loading data...</p>
         ) : (

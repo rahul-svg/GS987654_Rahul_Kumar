@@ -22,7 +22,7 @@ const storeReducer = createSlice({
     addStores: (state, action: PayloadAction<storeDetailsType>) => {
       state.storeDetails.push(action.payload);
     },
-    removeStores: (state, action: PayloadAction<string>) => {
+    removeStores: (state, action: PayloadAction<number>) => {
       state.storeDetails = state.storeDetails.filter(
         (store) => store.id !== action.payload
       );
@@ -31,10 +31,12 @@ const storeReducer = createSlice({
       const index = state.storeDetails.findIndex(
         (store) => store.id === action.payload.id
       );
+      
       if (index !== -1) {
-        state.storeDetails[index] = action.payload;
+        state.storeDetails[index] = { ...action.payload }; // Ensure payload is an object
       }
     },
+    
   },
 });
 

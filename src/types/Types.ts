@@ -4,28 +4,30 @@ export type CustomRouteObject = RouteObject & {
   name: string; 
 };
 
-export interface AuthState {
-  isLoggedIn: boolean;
-}
-
-export interface AuthForm {
-  email:string;
-  password:string;
-}
-
 
 export interface storeDetailsType {
-    id: string;
-    name: string;  // Changed "Store" → "name"
-    city: string;  // Changed "City" → "city"
-    state: string; // Changed "State" → "state"
+    id: number;
+    storeCode: string;  
+    storeName: string;  
+    city: string;  
+    state: string;
 }
 
 
 
 export interface skuDetailsType {
-    id: number;
-    sku: string;  // Changed "Store" → "name"
-    price: number;  // Changed "City" → "city"
-    cost: number; // Changed "State" → "state"
+    id:string;
+    label: string;
+    class: string;
+    department: string;
+    price:string;
+    cost:string;
+}
+
+
+export interface weeklyData {
+  week: string;
+  gmDollars: number;
+  salesDollars: number;
+  gmPercent: number;
 }
